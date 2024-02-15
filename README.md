@@ -8,4 +8,5 @@ The objective is simple: you're presented with a set of matchsticks arranged in 
 With various levels of difficulty available, from basic addition and subtraction to more complex equations involving multiplication, division, and even exponentiation, there's a Matchstick Equation Puzzle suitable for every level of mathematical proficiency.
 
 This puzzle not only sharpens your mathematical skills but also encourages creative problem-solving and out-of-the-box thinking. As you delve deeper into the challenge, you'll find yourself exploring different strategies, analyzing patterns, and refining your approach to find the optimal solution.
+
 ![equation solver question](https://github.com/nathanshankar/matchstickequation/assets/66565433/5306707b-e3ff-4d2c-bf5d-182b124537e6)
