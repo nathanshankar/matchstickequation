@@ -1,4 +1,4 @@
-# matchstickequation
+# Match Stick Equation Solver
 Do you want your robots to solve the Matchstick Equation?
 
 The Matchstick Equation Puzzle is a classic brain-teasing challenge that puts your mathematical prowess and lateral thinking skills to the test. This intriguing puzzle involves rearranging matchsticks to form a valid mathematical equation or inequality.
